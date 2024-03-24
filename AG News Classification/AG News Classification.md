@@ -2,7 +2,6 @@
 
 ![](https://github.com/Maulanaaz/ML-Project/blob/main/AG%20News%20Classification/Images/Cover_MD.jpg?raw=true "Picture : freepik.com")
 
-Notebook dapat diakses melalui link berikut : [File Notebook](https://colab.research.google.com/drive/1iu4zUq_dyJghBKskEw8JWnq4HygbLnND#scrollTo=LWU4h-ASIcmF)
 
 
 ## **Project Overview**
